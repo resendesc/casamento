@@ -116,7 +116,7 @@ filter: alpha(opacity=80); /* For IE8 and earlier */
     <header class="imagem_home" >
         <div class="header-content">
 				<div class="header-content-inner">
-					<h1>Casamentos 3 <br />Foto Montagens    Tratamento de Imagens </h1>
+					<h1>Casamentos 2 <br />Foto Montagens    Tratamento de Imagens </h1>
 					<hr>
 					<p></p>
 					<a href="#about" class="btn btn-primary btn-xl page-scroll page-scroll">Saiba mais +
